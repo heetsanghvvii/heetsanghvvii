@@ -36,7 +36,7 @@ On GitHub you'll find products I take from idea to launch myself: each one has t
 | **Experiments & validation** | Piloted an AI camera tool that measures wall area: 13 runs across 7 surfaces, checked against laser readings | A go / no-go based on accuracy data, not a demo |
 | **Build vs buy, unit cost** | Evaluated a mapping API 3x to 40x cheaper than Google Maps on 200 real customer leads | **97%** pincode accuracy confirmed before switching |
 | **Support & reliability** | Leading a root-cause program across 5 issue categories raised by 1,500+ surveyors | Fewer app support tickets (in progress) |
-| **Release & adoption** | Built a 4-part training kit for every release: WhatsApp brief, one-pagers, user guide | Surveyors adopt each new version faster |
+| **Release & adoption** | Built a 4-part training kit for every release: WhatsApp brief, one-pagers, user guide | Every release ships with adoption material for the field |
 | **Internal product & adoption** | Rolled out an internal CRM at UltraTech; moved retailers onto SAP direct billing | **1,000+** retailers onboarded, **60%** of revenue |
 | **User discovery** | Interviewed 8+ dermatologists, 30+ store owners and 20+ consumers for Cetaphil | Fed into Cetaphil's go-to-market plan |
 | **Growth & metrics** | Revamped key features of Cetaphil India's website; set "Average Views" as a north-star metric for Vaseline (HUL) | **+28%** digital footfall |
@@ -47,7 +47,7 @@ On GitHub you'll find products I take from idea to launch myself: each one has t
 Each one follows the same path: **problem → insight → decision → trade-off → outcome.**
 
 ### 1. Site Assist at Birla Opus *(work product, summary only)*
-- **Problem:** Surveyors measure walls by hand for painting quotes, and support tickets pile up after each app release.
+- **Context:** 1,500+ surveyors use the app to survey and measure homes for painting jobs. Measurement accuracy, map costs and support tickets are the levers.
 - **What I'm doing:** Testing AI wall measurement against laser readings before rollout, cutting map costs with a cheaper API validated on real leads, running root-cause fixes on the top ticket categories, and shipping every release with a training kit.
 - **PM lesson:** On a field app, adoption and accuracy matter more than features.
 
