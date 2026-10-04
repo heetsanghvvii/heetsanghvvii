@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/><stop offset="0.6" stop-color="#1e3a8a"/><stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <pattern id="d" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#ffffff" fill-opacity="0.12"/></pattern>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#g)"/>
+  <rect width="1200" height="260" rx="18" fill="url(#d)"/>
+  <text x="70" y="108" font-family="Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#fff">Heet Sanghvi</text>
+  <text x="70" y="156" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#c7d2fe">Product Manager · Mumbai</text>
+  <text x="70" y="200" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#e0e7ff" fill-opacity="0.9">Finds the real user problem, then ships the product that fixes it.</text>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#fff">
+    <rect x="860" y="64" width="270" height="34" rx="17" fill="#fff" fill-opacity="0.14"/><text x="882" y="86">CRM &amp; internal tools</text>
+    <rect x="860" y="108" width="270" height="34" rx="17" fill="#fff" fill-opacity="0.14"/><text x="882" y="130">Marketplaces &amp; GTM</text>
+    <rect x="860" y="152" width="270" height="34" rx="17" fill="#fff" fill-opacity="0.14"/><text x="882" y="174">AI agents, built hands-on</text>
+  </g>
+</svg>
