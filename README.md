@@ -5,68 +5,79 @@
 <td width="170" valign="top"><img src="assets/heet.png" alt="Heet Sanghvi" width="150"/></td>
 <td valign="top">
 
-### Hi, I'm Heet 👋
+### Product Manager. I turn messy user problems into shipped, measured products.
 
-I'm a Product Manager in Mumbai. I work on **Aditya Birla Group's Leadership Program** (UltraTech), where I turn stakeholder pain points into products and measure what changes. Before that: brand and GTM at Galderma (Cetaphil), strategy at Hindalco, and two ventures I started myself. **MBA, BITS School of Management.**
+I work in **Aditya Birla Group's Leadership Program at UltraTech**, where I led the rollout of an internal CRM and moved **1,000+ retailers** onto direct billing. Before that I did discovery, GTM and growth at **Galderma (Cetaphil)** and **Hindalco**, and started two ventures of my own. **MBA, BITS School of Management.**
 
-Outside work I **build and ship my own products** with AI tools: a live map, a marketplace, a WhatsApp agent. This page is the proof.
+On GitHub you'll find the products I take from idea to launch myself: each one has the **PRD**, the scope calls and the trade-offs, not just the code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heet-sanghvi-366331222/)
-[![Live product](https://img.shields.io/badge/Live%20product-Mumbai%20Broker%20Map-7c3aed)](https://mumbai-broker-map.vercel.app)
+[![Read a PRD](https://img.shields.io/badge/Read%20a%20PRD-Mumbai%20Broker%20Map-6d28d9)](https://github.com/heetsanghvvii/mumbai-broker-map/blob/main/docs/PRD.md)
+[![Live product](https://img.shields.io/badge/Try%20it-live%20product-111827)](https://mumbai-broker-map.vercel.app)
 
 </td>
 </tr>
 </table>
 
-## Impact at a glance
+## What I do as a PM, with proof
 
-| **1,000+** | **60%** | **₹35 lakh+** | **170+** |
-|:---:|:---:|:---:|:---:|
-| retailers moved onto SAP for direct billing at UltraTech | of revenue those retailers contribute | raised across 30 crowdfunding rounds (Feed-A-Cow) | volunteers built into a community |
-
-| **+28%** | **−30%** | **35%** | **18,000+** |
-|:---:|:---:|:---:|:---:|
-| digital footfall on Cetaphil India's website | counterfeit online sales cut | platform sales lift from a Smytten sampling pilot | registrations for a case competition I pioneered |
-
-## Products I've built
-
-| Product | What it does | Why it matters |
+| PM skill | Where I did it | Result |
 |---|---|---|
-| [**Mumbai Broker Map**](https://github.com/heetsanghvvii/mumbai-broker-map) · [live](https://mumbai-broker-map.vercel.app) | Search a building, an area or your commute and see the real estate brokers around it. Free top results, ₹149 unlock for the full commute map. | I picked a narrow problem (finding a broker you can trust in Mumbai), set a pricing model, and shipped it end to end. Open source, MIT. |
-| [**The Anand Medical College Murder**](https://github.com/heetsanghvvii/anand-medical-college-murder-mystery) | Real-time interactive murder mystery for 10 to 20 live players: synced evidence boards, tiered clues, private dossiers. | A multiplayer experience designed for live events, with server-side rules so nobody can peek. |
-| **One More Round** *(private, pre-launch)* | Marketplace where hosts publish game nights and strangers request a seat. | Full spec set: business case, BRD, FRD and an agent playbook, written before a line of code. |
-| **Sahayak** *(private, in progress)* | WhatsApp-first personal AI agent for India. Handles everyday admin in English, Hindi or Hinglish, with approval gates before it acts. | Trust and approvals are designed in from day one. |
+| **User discovery** | Interviewed 8+ dermatologists, 30+ store owners and 20+ consumers for Cetaphil | Fed into Cetaphil's go-to-market plan |
+| **Internal product & adoption** | Mapped stakeholder pain points and rolled out a CRM at UltraTech; moved retailers onto SAP direct billing | **1,000+ retailers** onboarded, contributing **60% of revenue** |
+| **Feedback loops** | Designed and automated a CSAT survey at Hindalco | Pain points surfaced to improve NPS |
+| **Growth experiments** | Revamped key features of Cetaphil India's website; ran a sampling pilot on Smytten | **+28%** digital footfall, **+35%** platform sales |
+| **Trust & safety** | Analysed customer complaints to trace counterfeit sellers | **−30%** counterfeit online sales |
+| **Metrics** | Set "Average Views" as the north-star metric for Vaseline's social strategy (HUL live project) | One number the team could steer by |
+| **Market sizing & GTM** | Southeast Asia GTM for Hindalco's Flame Retardant division | **5%** revenue growth opportunity found |
+| **0 → 1** | Founded Re.flecx (fashion) and co-founded Feed-A-Cow (NGO) | 40% gross margin; **₹35 lakh+** raised, 170+ volunteers |
 
-## Experience
+## Product case studies
 
-**Management Trainee, Aditya Birla Group Leadership Program · UltraTech** (Jun 2025 to now)
-Mapped stakeholder pain points and led an internal CRM rollout, then measured its impact. Onboarded 1,000+ retailers onto SAP so UltraTech can bill them directly.
+Each one follows the same path: **problem → insight → decision → trade-off → outcome.**
 
-**Summer Intern (PPO), Hindalco, Strategy & Marketing** (Apr to May 2024)
-Found a 5% revenue growth opportunity for the Flame Retardant division with a Southeast Asia GTM plan. Reviewed 8+ agencies for a ₹100 cr project. Designed and automated a CSAT survey to improve NPS.
+### 1. Mumbai Broker Map · [PRD](https://github.com/heetsanghvvii/mumbai-broker-map/blob/main/docs/PRD.md) · [repo](https://github.com/heetsanghvvii/mumbai-broker-map) · [live](https://mumbai-broker-map.vercel.app)
+- **Problem:** Home buyers in Mumbai find brokers by word of mouth and can't tell who actually works near the building they want.
+- **Insight:** People search by *place* (a building, an area, their office), not by broker name.
+- **Decision:** Three entry points (building, area, commute) over one map of 1,500+ brokers in 52 areas, with one-tap Call, WhatsApp and a MahaRERA check.
+- **Trade-off:** Cut house listings and broker onboarding from v1 to ship fast and stay neutral.
+- **Business model:** Top 3 commute results free, full map ₹149 for 7 days, priced just above the ~₹132 Google cost of an uncached search. Hard spend caps fall back to a free map.
 
-**Graduate Trainee, Galderma India** (2022 and 2023)
-*Cetaphil:* built the GTM plan from interviews with 8+ dermatologists, 30+ store owners and 20+ consumers; lifted website footfall 28%; cut counterfeit sales 30%.
-*Biluma:* ran a ₹25 lakh+ event with 300+ dermatologists in 10 cities; grew Instagram followers 36%.
+### 2. The Anand Medical College Murder · [PRD](https://github.com/heetsanghvvii/anand-medical-college-murder-mystery/blob/main/docs/PRD.md) · [repo](https://github.com/heetsanghvvii/anand-medical-college-murder-mystery)
+- **Problem:** Paper murder-mystery kits break when the group size changes and are easy to spoil.
+- **Decision:** A live web game that scales from 10 to 20 players without breaking the solution, with clues unlocked round by round.
+- **Trade-off:** Kept the secrets (who did it, the codes) on the server only, which added build effort but makes cheating impossible.
 
-**Founder, Re.flecx** (2021 to 2022) · light-reflective fashion brand: ₹1.15 lakh revenue, 40% gross margin, zero inventory carryover.
-**Co-Founder, Feed-A-Cow** (2022 to now) · NGO: ₹35 lakh+ raised, 80+ cows sheltered, 27 animals rescued.
+### 3. One More Round *(private, pre-launch)*
+A marketplace where hosts publish game nights and strangers request a seat. Written as a **business case, BRD and FRD before any code**, then built against that spec.
+
+### 4. Sahayak *(private, in progress)*
+A WhatsApp-first AI assistant for everyday admin in India (English, Hindi, Hinglish). Key product call: **the agent asks for approval before it pays, books or messages anyone**, because trust is the adoption blocker.
+
+### 5. Vector AI · [repo](https://github.com/heetsanghvvii/vector-ai)
+Turned open-ended AI services into **fixed-scope, fixed-price products** with separate India and international pricing, so buyers know what they get before they talk to anyone.
 
 ## How I work
 
-- **Start with the user.** Interviews, pain-point maps, then a metric that proves it worked.
-- **Ship small, measure, repeat.** Pilot first, scale what moves the number.
-- **Build it myself.** I prototype with AI tools so ideas become something people can use, not a slide.
-- **Write it down.** BRDs, FRDs, PRDs and release notes before and after every build.
+1. **Fall in love with the problem.** Talk to users before writing a spec.
+2. **Write it down.** One-page PRD: problem, user, success metric, what's out of scope.
+3. **Cut scope hard.** Ship the smallest version that tests the riskiest assumption.
+4. **Price and guardrail early.** Know the unit cost and the failure mode before launch.
+5. **Measure, then decide.** Pilot, read the number, scale or kill.
 
-## Toolkit
+I prototype my own products with AI coding tools (Claude Code), so I can test an idea with real users in days, and I speak the same language as engineers when we build.
 
-![Product](https://img.shields.io/badge/-PRDs%20%26%20roadmaps-1e3a8a) ![GTM](https://img.shields.io/badge/-Go--to--market-1e3a8a) ![CRM](https://img.shields.io/badge/-CRM%20%26%20SAP-1e3a8a) ![Research](https://img.shields.io/badge/-User%20research-1e3a8a) ![Data](https://img.shields.io/badge/-Data%20analysis-1e3a8a)
-![Claude Code](https://img.shields.io/badge/-Claude%20Code-7c3aed) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E) ![Vercel](https://img.shields.io/badge/-Vercel-000000) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6) ![Next.js](https://img.shields.io/badge/-Next.js-000000)
+## Experience
 
-## Education
+| Role | Company | When |
+|---|---|---|
+| Management Trainee, Leadership Program | Aditya Birla Group · UltraTech | Jun 2025 to now |
+| Summer Intern (PPO), Strategy & Marketing | Aditya Birla Group · Hindalco | Apr to May 2024 |
+| Graduate Trainee, Brand & E-commerce | Galderma India · Cetaphil, Biluma | 2022 to 2023 |
+| Founder | Re.flecx | 2021 to 2022 |
+| Co-Founder | Feed-A-Cow (NGO) | 2022 to now |
 
-MBA, **BITS School of Management** (2025) · B.Com, Mumbai University (2022, 8.67/10) · Admitted to MSc Marketing Strategy & Innovation, Bayes Business School, London (2023)
+**Education:** MBA, BITS School of Management (2025) · B.Com, Mumbai University (2022, 8.67/10)
 
 ---
 
